@@ -1,0 +1,18 @@
+# use this to include all files (only for order-independent builds)
+# use !path/to/file to exclude files or directories from build
+
+# nocheck
+
+header.js
+
+util/*
+beverage/effect.js
+beverage/registry.js
+beverage/beverage-storage.js
+
+block/table.js
+block/barrel.js
+block/cup.js
+block/drain.js
+
+recipe.js

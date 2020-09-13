@@ -1,0 +1,23 @@
+{
+    "java.dependency.packagePresentation": "flat",
+    "java.dependency.syncWithFolderExplorer": true,
+    "files.exclude": {
+        ".settings/**": true,
+        ".vscode/**": true,
+        ".gitignore": true,
+        ".project": true,
+        ".classpath": true,
+        ".idea/**": true,
+        "**/tsconfig.json": true
+    },
+    "cSpell.ignoreWords": [
+        "change",
+        "cooldown",
+        "for",
+        "function",
+        "id",
+        "neighbour",
+        "register",
+        "register neighbour change function for id"
+    ]
+}
